@@ -40,8 +40,8 @@ This repository contains a Node.js application that integrates with Telegram's b
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/hc223/Telegram-Bot-Nodejs-MySQL.git
+   cd Telegram-Bot-Nodejs-MySQL
 2. Install dependencies：
     ```
     yarn install
