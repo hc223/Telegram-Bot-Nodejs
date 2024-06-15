@@ -47,7 +47,7 @@ A Telegram robot developed based on the [node-telegram-bot-api](https://github.c
     yarn install
 3. Configure Telegram bot:
 
-    Rename `.env.example` to `.env` and fill in MySQL database configuration and Telegram bot token details.
+   - Rename `.env.example` to `.env` and fill in MySQL database configuration and Telegram bot token details.
 4. Run the application：
     ```
     node bot.js
