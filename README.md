@@ -1,6 +1,6 @@
 ### Telegram Bot Integration with MySQL
 
-This repository contains a Node.js application that integrates with Telegram's bot API and MySQL database. The bot allows users to register, manage memberships, and use a points system through Telegram commands.
+A Telegram robot based on `the node-telegram-bot-api` library. The robot has functions such as user registration, invitation code generation, daily check-in, activation code usage, and membership expiration check.
 
 ### Features
 
