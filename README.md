@@ -1,6 +1,6 @@
 ### Telegram Bot Integration with MySQL
 
-A Telegram robot based on `the node-telegram-bot-api` library. The robot has functions such as user registration, invitation code generation, daily check-in, activation code usage, and membership expiration check.
+A Telegram robot based on the [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) library. The robot has functions such as user registration, invitation code generation, daily check-in, activation code usage, and membership expiration check.
 
 ### Features
 
